@@ -1,0 +1,9 @@
+(This is a placeholder file for the 'Login_Bug.png' requested in the folder structure. 
+In a real project, this would be an actual screenshot of the error.)
+
+Description: Login Error
+Severity: High
+Steps to Reproduce:
+1. Navigate to Login Page.
+2. Enter valid user and invalid password.
+3. Observe error message alignment.

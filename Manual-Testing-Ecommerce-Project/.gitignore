@@ -1,0 +1,23 @@
+# Ignore intermediate markdown files in documentation folders
+01_Requirement_Document/*.md
+02_Test_Plan/*.md
+03_Test_Scenarios/*.md
+04_Test_Cases/*.md
+05_Test_Data/*.md
+06_Defect_Reports/*.md
+07_Traceability_Matrix/*.md
+08_Test_Execution_Report/*.md
+09_Screenshots/*.md
+
+# Keep the main README
+!README.md
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# System
+.DS_Store
+Thumbs.db
